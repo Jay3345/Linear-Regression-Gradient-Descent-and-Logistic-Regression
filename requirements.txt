@@ -1,0 +1,21 @@
+numpy==1.25.2
+cvxopt==1.3.2
+matplotlib==3.7.2
+pandas==2.1.0
+autograd==1.6.2
+# jax==0.4.14
+python==3.10.13
+
+Modules to use:
+import numpy as np
+from cvxopt import matrix, solvers
+import math
+
+
+
+Change File Locations: 
+Line 719, 720
+
+
+All work before line 67 is the prof's work.
+
